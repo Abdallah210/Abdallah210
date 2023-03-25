@@ -5,7 +5,7 @@
 <br>👨🏽‍💻 I'm good in Python, JavaScript, Java, C# and more program languages
 <br>🧊 I’m currently learning C# for Unity3d, Photoshop and Blender
 <br>💞️ I’m looking to being one of the famous games dev in the world !
-<br>[![](https://visitcount.itsvg.in/api?id=Abdallah210&icon=5&color=0)](https://visitcount.itsvg.in)
+<br><br>[![](https://visitcount.itsvg.in/api?id=Abdallah210&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <br><br>
 
