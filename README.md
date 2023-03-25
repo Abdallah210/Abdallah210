@@ -30,9 +30,9 @@
 ![C#](https://img.shields.io/badge/c%23-800080.svg?style=for-the-badge&logo=c-sharp&logoColor=white) <br>
 
 ### 🔵 Graphic software :
-![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=236192) <br>
-![Unity3D](https://img.shields.io/badge/unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=white) <br>
-![Krita](https://img.shields.io/badge/krita-3BABFF.svg?style=for-the-badge&logo=krita&logoColor=white) <br>
+![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=236192) 
+![Unity3D](https://img.shields.io/badge/unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black) 
+![Krita](https://img.shields.io/badge/krita-3BABFF.svg?style=for-the-badge&logo=krita&logoColor=black) <br>
 
 
 <br><br>
