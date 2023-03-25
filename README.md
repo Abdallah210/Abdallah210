@@ -32,7 +32,7 @@
 ### 🔵 Graphic software :
 ![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=236192) 
 ![Unity3D](https://img.shields.io/badge/unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black) 
-![Krita](https://img.shields.io/badge/krita-3BABFF.svg?style=for-the-badge&logo=krita&logoColor=8F00FF) <br>
+![Krita](https://img.shields.io/badge/krita-3BABFF.svg?style=for-the-badge&logo=krita&logoColor=black) <br>
 
 
 <br><br>
