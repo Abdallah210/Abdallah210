@@ -29,7 +29,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
 ![C#](https://img.shields.io/badge/c%23-800080.svg?style=for-the-badge&logo=c-sharp&logoColor=white) <br>
 
-### 🔵 Graphic software :
+### 🔵 Graphic softwares :
 ![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=236192) 
 ![Unity3D](https://img.shields.io/badge/unity3D-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black) 
 ![Krita](https://img.shields.io/badge/krita-3BABFF.svg?style=for-the-badge&logo=krita&logoColor=%23323330) <br>
