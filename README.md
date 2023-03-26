@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdallah210&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Abdallah210&theme=gradiant&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah210&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah210&theme=gradiant&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br><br>
 
