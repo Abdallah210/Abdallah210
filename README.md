@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-<br>👋 Hi, I am Abdallah El Filali & I am 23 years old
+👋 Hi, I am Abdallah El Filali & I am 23 years old
 <br>👀 I’m interested in coding and 2D/3D design
 <br>👨🏽‍💻 I'm good in Python, JavaScript, Java, C# and more program languages
 <br>🧊 I’m currently learning C# for Unity3d, Photoshop and Blender
@@ -19,7 +19,7 @@
 <br><br>
 
 ## 💻 Tech Stack:
-### 🔴 Programming languages :
+#### 🔴 Programming languages :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
@@ -29,7 +29,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
 ![C#](https://img.shields.io/badge/c%23-800080.svg?style=for-the-badge&logo=c-sharp&logoColor=white) <br>
 
-### 🔵 Graphic softwares :
+#### 🔵 Graphic softwares :
 ![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=236192) 
 ![Unity3D](https://img.shields.io/badge/unity3D-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black) 
 ![Krita](https://img.shields.io/badge/krita-3BABFF.svg?style=for-the-badge&logo=krita&logoColor=%23323330) <br>
