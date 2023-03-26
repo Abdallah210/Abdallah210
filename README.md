@@ -41,6 +41,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdallah210&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Abdallah210&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah210&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
