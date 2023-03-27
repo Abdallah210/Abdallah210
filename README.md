@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-👋 Hi, I am Abdallah El Filali & I am 23 years old
+👋 Hello ! I am Abdallah El Filali & I am 23 years old
 <br>👀 I’m interested in coding and 2D/3D design
 <br>👨🏽‍💻 I'm good in Python, JavaScript, Java, C# and more program languages
 <br>🧊 I’m currently learning C# for Unity3d, Photoshop and Blender
