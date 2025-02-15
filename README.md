@@ -15,11 +15,14 @@
 [![stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21744843/abdallah210) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abdallah_elfilali_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-el-filali-a788591ba/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@Abdellah1999999) 
 
 <br><br>
 
 ## 💻 Tech Stack:
+
+#### 🔵 CAD & CAM software :
+![SolidWorks](https://img.shields.io/badge/dassaultsystemes-005386.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=black) 
+
 #### 🔴 Programming languages :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
