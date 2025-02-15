@@ -1,9 +1,6 @@
 ## 💫 About Me:
 
-I am Abdallah El Filali 
-<br> I’m interested in coding and 2D/3D modeling/design
-<br> I'm good in Python, JavaScript, Java and more program languages
-<br> I’m currently learning Solidworks
+I am Abdallah El Filali, passionate about coding and 2D/3D modeling and design. I have strong skills in Python, JavaScript, Java, and other programming languages. Currently, I am learning SolidWorks to further expand my expertise in design and engineering.
 
 
 <br>
