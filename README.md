@@ -21,7 +21,7 @@
 ## 💻 Tech Stack:
 
 #### 🔵 CAD & CAM software :
-![SolidWorks](https://img.shields.io/badge/dassaultsystemes-005386.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=black) 
+![SolidWorks](https://img.shields.io/badge/SolidWorks-f32a24.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=black) 
 
 #### 🔴 Programming languages :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
